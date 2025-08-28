@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SaloonSoft Chatbot",
+  "description": "A multilingual, menu-driven chatbot application powered by a simulated PostgreSQL database to assist SaloonSoft users with appointments, billing, and configuration queries.",
+  "requestFramePermissions": []
+}
